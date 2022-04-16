@@ -1,5 +1,8 @@
 # README
 
+Unity UI 扩展库，从[Unity UI Source](https://bitbucket.org/Unity-Technologies/ui) 复制而来
+
+
 This is an extension project for the new Unity UI system which can be found at: [Unity UI Source](https://bitbucket.org/Unity-Technologies/ui)
 ## [  Check out the control demos on our Tumblr page](https://unityuiextensions.tumblr.com/)
 
